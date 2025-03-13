@@ -1,4 +1,4 @@
-let quantNumeros = 100;
+let quantNumeros = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
